@@ -117,6 +117,12 @@ cmake-build-*/
 # File-based project format
 *.iws
 
+#Carpeta Idea
+.idea
+
+#Archivos .iml
+*.iml
+
 # IntelliJ
 out/
 
